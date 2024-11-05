@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+00:06:32	12677/12677	---MCZ	200	added ('OK')	text/html	date:Tue,%2005%20Nov%202024%2006:06:32%20GMT	https://web.archive.org/web/20110507121700/http://freekipedia.net:80/index.php/Pleasure	C:/Users/Owner/wget/FP/web.archive.org/web/20110507121700/http_/freekipedia.net_80/index.php/Pleasure.html	(from )
+00:06:33	146/146	---M--	404	error ('Not%20Found')	text/html	date:Tue,%2005%20Nov%202024%2006:06:33%20GMT	https://web.archive.org/robots.txt		(from )
